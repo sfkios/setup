@@ -16,7 +16,7 @@ sudo pacman -S telegram-desktop code chromium gnome-shell-extension-appindicator
     "editor.minimap.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "One Dark Pro Darker",
-    "terminal.integrated.fontSize": 27,
+    "terminal.integrated.fontSize": 20,
     "terminal.integrated.lineHeight": 2.2,
     "terminal.integrated.mouseWheelZoom": true,
     "editor.fontFamily": "Hack",
