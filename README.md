@@ -1,28 +1,27 @@
 ```
-sudo pacman -S telegram-desktop code chromium gnome-shell-extension-appindicator gnome-tweaks ddcutil ttf-hack
+sudo pacman -S code chromium ddcutil gnome-shell-extension-appindicator gnome-tweaks telegram-desktop ttf-hack
 ```
 
 ```
 {
-    "editor.fontSize": 20,
-    "workbench.startupEditor": "none",
-    "editor.tabSize": 2,
-    "editor.renderWhitespace": "all",
-    "editor.cursorBlinking": "expand",
-    "editor.lineHeight": 2.2,
-    "editor.mouseWheelZoom": true,
-    "editor.fontLigatures": false,
-    "workbench.sideBar.location": "right",
-    "editor.minimap.enabled": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "One Dark Pro Darker",
-    "terminal.integrated.fontSize": 20,
-    "terminal.integrated.lineHeight": 2.2,
-    "terminal.integrated.mouseWheelZoom": true,
-    "editor.fontFamily": "Hack",
-    "workbench.editor.empty.hint": "hidden",
-    "update.showReleaseNotes": false,
-    "intelephense.diagnostics.enable": false,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "Hack",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 20,
+  "editor.lineHeight": 2.2,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "intelephense.diagnostics.enable": false,
+  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.lineHeight": 2.2,
+  "terminal.integrated.mouseWheelZoom": true,
+  "update.showReleaseNotes": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none"
 }
-
 ```
