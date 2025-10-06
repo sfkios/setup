@@ -1,7 +1,7 @@
 # archlinux.org
 
 ```
-sudo pacman -S code chromium ddcutil flatpak gnome-shell-extension-appindicator gnome-tweaks inter-font telegram-desktop ttf-hack
+sudo pacman -S code chromium capitaine-cursors ddcutil flatpak gnome-shell-extension-appindicator gnome-tweaks inter-font papirus-icon-theme telegram-desktop ttf-hack
 ```
 
 [Wallpaper](https://unsplash.com/photos/silhouette-of-trees-covered-by-fog-KT3WlrL_bsg)
