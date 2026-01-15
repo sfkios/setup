@@ -1,14 +1,6 @@
 # archlinux.org
 
 ```
-systemd-analyze critical-chain
-```
-
-```
-sudo systemctl mask tpm2.target
-```
-
-```
 sudo pacman -S code chromium capitaine-cursors ddcutil flatpak gnome-shell-extension-appindicator gnome-tweaks inter-font papirus-icon-theme php telegram-desktop ttf-hack
 ```
 
